@@ -1,0 +1,3 @@
+[run]
+source = mytutorial
+omit = mytutorial/test*
